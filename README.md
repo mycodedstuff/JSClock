@@ -4,3 +4,6 @@
 #### Adding Clocks/Timers made easy.
 
 [Checkout this demo!](https://codepen.io/aman_singh/pen/LjJGNJ)
+---
+### Want to embed it into your website!!
+### Copy this [CDN](https://rawgit.com/mycodedstuff/JSClock/master/jsclock_v1.0_min.js)
